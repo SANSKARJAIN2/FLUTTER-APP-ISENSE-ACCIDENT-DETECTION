@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "82665653745",
+    "firebase_url": "https://isense-messaging.firebaseio.com",
+    "project_id": "isense-messaging",
+    "storage_bucket": "isense-messaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82665653745:android:6379c14c30992edf4f7050",
+        "android_client_info": {
+          "package_name": "com.example.isenseaccidentdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82665653745-set4s4fa8jntho8pg8150fqd86aoeh4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA95_gbrhsK2zrN-sLIp3oJGQQgKlt7QKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82665653745-set4s4fa8jntho8pg8150fqd86aoeh4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
